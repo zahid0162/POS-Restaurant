@@ -1,0 +1,7 @@
+{
+  "name": "LumiPOS - Smart Restaurant POS",
+  "description": "A high-performance, AI-enhanced point of sale system for modern restaurants featuring real-time inventory, smart discounts, and automated invoicing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
